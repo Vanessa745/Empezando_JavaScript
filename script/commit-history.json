@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "30818a9c66423542646a2cde415e7e65695d54ac",
     "author": "Vanessa745",
     "commit": {
       "date": "2025-08-19T02:28:44.000Z",
       "message": "Commit con Sumador funcionando correctamente",
-      "url": "https://github.com/Vanessa745/Empezando_JavaScript/commit/HEAD"
+      "url": "https://github.com/Vanessa745/Empezando_JavaScript/commit/30818a9c66423542646a2cde415e7e65695d54ac"
     },
     "stats": {
       "total": 27133,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Vanessa745",
+    "commit": {
+      "date": "2025-08-19T02:45:45.000Z",
+      "message": "Commit con Sumador y Multiplicador funcionando",
+      "url": "https://github.com/Vanessa745/Empezando_JavaScript/commit/HEAD"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 17,
+      "deletions": 3,
+      "date": "2025-08-19"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
