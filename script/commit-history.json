@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Vanessa745",
+    "commit": {
+      "date": "2025-08-19T02:28:44.000Z",
+      "message": "Commit con Sumador funcionando correctamente",
+      "url": "https://github.com/Vanessa745/Empezando_JavaScript/commit/HEAD"
+    },
+    "stats": {
+      "total": 27133,
+      "additions": 4222,
+      "deletions": 22911,
+      "date": "2025-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
